@@ -63,7 +63,7 @@ export default function App() {
                 padding: "1rem",
                 border: "1px solid black",
                 width: "80%",
-                margin: "1rem 0rem",
+                margin: "1rem auto",
                 borderRadius: "0.5rem"
               }}
             >
